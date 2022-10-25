@@ -55,22 +55,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ownername = "🦄HILEM" //ur owner name
+global.ytname = "YTHILEM" //ur yt chanel name
+global.socialm = "GitHub: hil3m" //ur github or insta name
+global.location = "Turkey, Sinop" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.owner = ['905443787048']
+global.ownertag = '905443787048' //ur tag number
+global.botname = 'HIL3M Bot' //ur bot name
+global.linkz = "" //your theme url which will be displayed on whatsapp
+global.websitex = "https://ydtmaster.com" //ur website to be displayed
+global.botscript = '' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.packname = "HIL3M Bot\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "🦄HILEM Bot" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -105,18 +105,18 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
+    success: 'Tamamlandı ✓',
+    admin: 'Sadece yöneticiler bu komutu kullanabilir!',
+    botAdmin: 'Bot admin aktif değil!',
+    owner: 'Sadece yöneticiler bu özelliği kullanabilir!',
+    group: 'Bu özellik yalnızca gruplara kullanılabilir!',
+    private: 'Bu özellik sadece özel mesajlarda kullanılabilir gruplarda değil!',
+    bot: 'Bu özellik sadece bot içindir',
+    wait: 'İşleme alındı...',
+    linkm: 'Link nerede?',
+    error: 'Hata!!',
+    endLimit: 'Günlük limitiniz bitti 12 saatte bir yenileyebilirsiniz',
+    ban: 'Bot yönetimi tarafından yasaklandınız, yasağın açılması için, kurucuya yazın.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
